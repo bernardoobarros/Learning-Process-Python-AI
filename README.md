@@ -1,6 +1,14 @@
-# PySpend CLI 
+This repository contains a structured progression from foundational Python practice to building intelligent AI systems and my process in learning data persistence, semantic search, and LLM orchestration.
 
-A lightweight, local expense tracker built with Python. This project focuses on clean CLI logic, data persistence using JSON, and robust error handling.
+## Projects
+* **1: PySpend CLI** – Foundational Python, JSON persistence, and data analysis with Pandas.
+* **2: Semantic Brain** – Implementing Vector Embeddings and similarity search for local data.
+* **3: Vibe Recommender** – Prompt Engineering, LLM API integration, and structured outputs.
+* **4: AI Researcher** – Multi-step agentic workflows using LangChain and LangGraph.
+
+# PySpend
+
+A lightweight, local expense tracker built with Python. This project focuses on clean logic, data persistence using JSON, and robust error handling.
 
 ## Overview
 PySpend allows users to manage their daily finances directly from the terminal. It was designed to practice foundational programming concepts required for Data Science and AI Orchestration.
