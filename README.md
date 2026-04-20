@@ -1,7 +1,7 @@
 This repository contains a structured progression from foundational Python practice to building intelligent AI systems and my process in learning data persistence, semantic search, and LLM orchestration.
 
 ## Projects
-* **1: PySpend CLI** – Foundational Python, JSON persistence, and data analysis with Pandas.
+* **1: PySpend** – Foundational Python, JSON persistence, and data analysis with Pandas.
 * **2: Semantic Brain** – Implementing Vector Embeddings and similarity search for local data.
 * **3: Vibe Recommender** – Prompt Engineering, LLM API integration, and structured outputs.
 * **4: AI Researcher** – Multi-step agentic workflows using LangChain and LangGraph.
